@@ -1,5 +1,7 @@
 # ED_Exercicio01
-11/08/2022 - Introducao / Recursividade - Estrutura de Dados
+
+## Descrição do Projeto
+<p align="center">11/08/2022 - Introducao / Recursividade - Estrutura de Dados</p>
 
 Resultado Console:
 
